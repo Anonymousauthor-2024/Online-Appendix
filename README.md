@@ -3,5 +3,5 @@ This repository serves as the online appendix for the research paper **Investiga
 
 ## Files Description
 
-2. **Online Community Data Codebook.md**
+1. **Online Community Data Codebook.md**
    - This file is the codebook of study 2 (online community study) used in the study.
